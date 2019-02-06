@@ -31,7 +31,7 @@ Markdown cells were used to assist in walking through the thought process for in
 ____
 # Results <a name='Results'></a>
 
-Stay glued to this section. A post going through the findings will be up soon.
+I created a blog post outlining my thoughts on this project along side my key takeaways [here](https://medium.com/@surohittandon123/sneaking-into-airbnbs-seattle-data-af6bd2e909f0).
 
 ____
 # Acknowledgements <a name='Acknowledgements'></a>
