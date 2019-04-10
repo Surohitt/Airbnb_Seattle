@@ -14,9 +14,9 @@ ___
 
 A big part of my project motivation was to better understand Airbnb's business and see how it preforms in a near by major city such as Seattle.There where some key questions I truly wanted to understand.
 
-1. Can we predict if a house will receive a 'good' score?
+1. How often are residences occupied and how does this vary with the price?
 2. Which are the key relationships that help to predict our review scores?
-3. Can we accurately predict an aggregated review score for each house?
+3. Can we predict if a house will receive a 'good' score?
 
 The full data sets related to this project can be found on [Kaggle](https://www.kaggle.com/) or directly at this [link](https://www.kaggle.com/airbnb/seattle). Also, I want to encourage pull requests and further analysis on top of this project!
 
